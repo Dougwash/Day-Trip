@@ -1,3 +1,5 @@
+# The struggle is real
+# 
 # print()
 # print ("Suggested day Trip")
 # print()
